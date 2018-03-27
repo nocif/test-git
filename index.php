@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
-
-=======
-echo "Bonjour";
-
+// retour en arrière
 phpinfo();
->>>>>>> ff33b845b9a9d9764b7c774aaeba14cdb9bb10cc
+
 ?>
